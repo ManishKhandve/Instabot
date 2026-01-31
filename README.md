@@ -40,5 +40,3 @@ A GUI window will appear. Enter the Instagram post URL, select comments, set the
 - Login is handled via cookies for convenience. You can force a new login if needed.
 - Use responsibly and respect Instagram's terms of service.
 
-## License
-MIT
